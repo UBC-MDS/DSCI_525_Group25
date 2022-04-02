@@ -1,5 +1,6 @@
 # Predicting daily rainfall in NSW, Australia
-Class project for web and cloud computing course
+A group project as to fullfill requirement for web and cloud computing course
+
 ### Overview
 Build and deploy ensemble machine learning models in the cloud to predict daily rainfall in Australia on a large dataset (~6 GB), where features are outputs of different climate models, and the target is the actual rainfall observation.
 ### Dataset
