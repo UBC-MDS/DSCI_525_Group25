@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are welcome, and they are greatly appreciated! Every little bit
+Contributors are welcome to contribute and provide constructive feedback, and we greatly appreciate this! Every little bit
 helps, and credit will always be given.
 
 Current contributors include:
